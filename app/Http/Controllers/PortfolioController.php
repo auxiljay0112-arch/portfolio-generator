@@ -6,7 +6,7 @@ use App\Models\Portfolio;
 use Illuminate\Http\Request;
 use Illuminate\Support\Str;
 
-class PortfolioController extends Controller
+class PortfolioController
 {
     public function create()
     {
